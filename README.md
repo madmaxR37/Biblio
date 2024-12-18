@@ -12,7 +12,6 @@ This project is a Book Management System developed using PHP, following the MVC 
 - **PHP**: Server-side scripting language
 - **MySQL**: Database management system
 - **HTML/CSS**: Markup and styling
-- **JavaScript**: Client-side scripting
 
 ## Getting Started
 
